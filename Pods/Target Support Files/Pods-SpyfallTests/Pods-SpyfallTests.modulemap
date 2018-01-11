@@ -1,0 +1,6 @@
+framework module Pods_SpyfallTests {
+  umbrella header "Pods-SpyfallTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
